@@ -34,4 +34,6 @@ const loginInfoSchema = mongoose.Schema(
             }
         })
 
-    })
+    });
+
+module.exports = mongoose.model("user", loginInfoSchema);
