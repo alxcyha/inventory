@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon indec.js"
+    "start": "nodemon index.js"
   },
   "author": "Egano and Villaflor",
   "license": "ISC",
